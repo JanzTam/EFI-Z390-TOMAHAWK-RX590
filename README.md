@@ -1,2 +1,2 @@
-# EFI-Z390-TOMAHAWK-RX590
-微星 Z390 TOMAHAWK 战斧导弹主板 + 蓝宝石 RX590
+# EFI-Z390 Aorus Pro WiFi+RX590
+技嘉 Z390 Aorus Pro WiFi + 蓝宝石 RX590
